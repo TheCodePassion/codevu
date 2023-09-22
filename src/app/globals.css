@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.separator {
+  height: 1px;
+  background-color: rgba(59, 130, 246, 0.5);
+  margin: 2px 0;
+}
+
+.header,
+footer {
+  background-color: rgb(0, 0, 0);
+}
